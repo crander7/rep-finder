@@ -32,5 +32,5 @@
 
 .scroll {
     height: 470px;
-    overflow: scroll;
+    overflow: overlay;
 }
